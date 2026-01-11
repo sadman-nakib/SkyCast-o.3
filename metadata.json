@@ -1,0 +1,7 @@
+{
+  "name": "SkyCast - Modern Weather",
+  "description": "A premium, responsive weather application featuring real-time data from Open-Meteo, interactive charts, and dynamic weather-based themes.",
+  "requestFramePermissions": [
+    "geolocation"
+  ]
+}
